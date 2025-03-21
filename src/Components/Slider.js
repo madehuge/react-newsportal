@@ -8,8 +8,8 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 
-import Slide1 from "../Assets/slide1.jpg";
-import Slide2 from "../Assets/slide2.jpg";
+import Slide1 from "../Assets/slider1.jpg";
+import Slide2 from "../Assets/slider2.jpg";
 
 const slides = [
   {
