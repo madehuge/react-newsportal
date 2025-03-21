@@ -8,6 +8,9 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 
+import Slide1 from "../Assets/slide1.jpg";
+import Slide2 from "../Assets/slide2.jpg";
+
 const slides = [
   {
     id: 1,
@@ -17,7 +20,7 @@ const slides = [
     date: "FEBRUARY 1, 2019",
     comments: "4 COMMENTS",
     category: "FEATURED",
-    image: "https://m.media-amazon.com/images/I/81V2hzNkcsL.jpg",
+    image: Slide1,
   },
   {
     id: 2,
@@ -27,7 +30,7 @@ const slides = [
     date: "FEBRUARY 1, 2019",
     comments: "4 COMMENTS",
     category: "FEATURED",
-    image: "https://m.media-amazon.com/images/I/81V2hzNkcsL.jpg",
+    image: Slide2,
   },
   // Add more slides if needed
 ];
